@@ -14,7 +14,7 @@
 - 🎓 Formado pela Escola Naval (2022), com atuação como oficial maquinista na Marinha do Brasil
 - 💻 Desenvolvedor com experiência prática em **Python**, **Django**, **Node.js**, **React**, **Firebase**, **React Native** e automação de processos
 - 🧠 Entusiasta de inteligência artificial, dados e sistemas escaláveis
-- 🚀 Em transição de carreira, focado em projetos com impacto real e soluções tecnológicas aplicadas
+- 🚀 Fiz transição de carreira, focado em projetos com impacto real e soluções tecnológicas aplicadas
 
 ---
 
@@ -43,7 +43,7 @@
 ### 📫 Contato
 
 - ✉️ Email: **sam.damazio@icloud.com**
-- 🔗 LinkedIn: [linkedin.com/in/seuuser](www.linkedin.com/in/samuel-damazio-5a0976274)
+- 🔗 LinkedIn: [linkedin.com/in/sam.damazio](www.linkedin.com/in/samuel-damazio-5a0976274)
 - 📸 Instagram do Ceasinha: [@ceasinhapp](https://instagram.com/ceasinhapp)
 
 ---

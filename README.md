@@ -41,7 +41,7 @@
 
 ### 🌱 Projetos em destaque
 
-- 📦 [**Ceasinha**] — app de gestão para feirantes e produtores (React Native + Firebase)
+- 📦 **Ceasinha** — app de gestão para feirantes e produtores (React Native + Firebase)
 - 🤖 Automatizações com WhatsApp e bots inteligentes para vendas e atendimento (privado)
 - 📊 Scripts de scraping, análise de dados e geração de relatórios automatizados com Python
 

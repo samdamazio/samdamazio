@@ -29,7 +29,14 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
 ![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode)
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
+![Django REST](https://img.shields.io/badge/-Django%20REST-092E20?style=flat&logo=django)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai)
 ---
 
 ### 🌱 Projetos em destaque

@@ -41,7 +41,7 @@
 
 ### 🌱 Projetos em destaque
 
-- 📦 [**Ceasinha**](https://github.com/seu-user/ceasinha) — app de gestão para feirantes e produtores (React Native + Firebase)
+- 📦 [**Ceasinha**] — app de gestão para feirantes e produtores (React Native + Firebase)
 - 🤖 Automatizações com WhatsApp e bots inteligentes para vendas e atendimento (privado)
 - 📊 Scripts de scraping, análise de dados e geração de relatórios automatizados com Python
 
@@ -51,7 +51,8 @@
 
 - ✉️ Email: **sam.damazio@icloud.com**
 - 🔗 LinkedIn: [linkedin.com/in/sam.damazio](www.linkedin.com/in/samuel-damazio-5a0976274)
-- 📸 Instagram do Ceasinha: [@ceasinhapp](https://instagram.com/ceasinhapp)
+- 📸 Instagram: [@sam.damazio](https://www.instagram.com/sam.damazio/)
+- 📸 Instagram do Ceasinha: [@ceasinhapp](https://www.instagram.com/ceasinha.app/)
 
 ---
 

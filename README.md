@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá! Eu sou o Sam</h1>
+<h1 align="center">👋 Hey, i am Sam</h1>
 
 <p align="center">
   🚢 Ex-oficial da Marinha <br>

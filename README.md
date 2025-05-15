@@ -37,6 +37,8 @@
 ![Django REST](https://img.shields.io/badge/-Django%20REST-092E20?style=flat&logo=django)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai)
+![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat&logo=prettier)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest)
 ---
 
 ### 🌱 Projetos em destaque

@@ -2,7 +2,7 @@
 
 <p align="center">
   🚢 Ex-oficial da Marinha <br>
-  👨‍💻 Desenvolvedor focado em soluções inteligentes com diversas tecnologias <br>
+  👨‍💻 Desenvolvedor Full Stack focado em soluções inteligentes com diversas tecnologias <br>
   📲 Criador do <b>Ceasinha</b>, app para feirantes e produtores rurais <br>
   🌎 EN / PT-BR
 </p>

@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, i am Sam</h1>
+<h1 align="center">👋 Hey, i'm Sam Damazio</h1>
 
 <p align="center">
   🚢 Ex-oficial da Marinha <br>
@@ -11,10 +11,11 @@
 
 ### 💼 Sobre mim
 
+- 📝 Início da vida acadêmica - Aprovado em diversos concursos públicos no país
 - 🎓 Formado pela Escola Naval (2022), com atuação como oficial maquinista na Marinha do Brasil
+- 🚀 Fiz transição de carreira, focado em projetos com impacto real e soluções tecnológicas aplicadas
 - 💻 Desenvolvedor com experiência prática em **Python**, **Django**, **Node.js**, **React**, **Firebase**, **React Native** e automação de processos
 - 🧠 Entusiasta de inteligência artificial, dados e sistemas escaláveis
-- 🚀 Fiz transição de carreira, focado em projetos com impacto real e soluções tecnológicas aplicadas
 
 ---
 
@@ -43,9 +44,10 @@
 
 ### 🌱 Projetos em destaque
 
-- 📦 **Ceasinha** — app de gestão para feirantes e produtores (React Native + Firebase)
-- 🤖 Automatizações com WhatsApp e bots inteligentes para vendas e atendimento (privado)
-- 📊 Scripts de scraping, análise de dados e geração de relatórios automatizados com Python
+- 📦 **Ceasinha** — app de gestão para feirantes e produtores rurais (aplicativo web e mobile por assinatura)
+- 🎓 **Saber Livre** - plataforma open source para hospedar cursos gratuitos.
+- 🤖 Automatizações com WhatsApp e bots inteligentes para agendamento de plantões médicos (privado)
+- 📊 Scripts de scraping, análise de dados e geração de relatórios automatizados com Python (privado)
 
 ---
 
@@ -59,5 +61,6 @@
 ---
 
 <p align="center">
-  Feito com carinho por Sam.
+  Quer contar com o meu trabalho? 
+Entre em contato para mais informações.
 </p>

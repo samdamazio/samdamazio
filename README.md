@@ -40,6 +40,13 @@
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai)
 ![Prettier](https://img.shields.io/badge/-Prettier-8e44ad?style=flat&logo=prettier)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikitlearn)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql)
+![Django Allauth](https://img.shields.io/badge/-Django%20Allauth-092E20?style=flat&logo=django)
+![Faker.js](https://img.shields.io/badge/-Faker.js-4A4A55?style=flat&logo=javascript)
+
 ---
 
 ### 🌱 Projetos em destaque

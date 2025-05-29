@@ -46,6 +46,8 @@
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql)
 ![Django Allauth](https://img.shields.io/badge/-Django%20Allauth-092E20?style=flat&logo=django)
 ![Faker.js](https://img.shields.io/badge/-Faker.js-4A4A55?style=flat&logo=javascript)
+![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=flat&logo=pytest)
+
 
 ---
 

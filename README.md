@@ -70,6 +70,7 @@
 - 🔗 LinkedIn: [linkedin.com/in/sam.damazio](www.linkedin.com/in/samuel-damazio-5a0976274)
 - 📸 Instagram: [@sam.damazio](https://www.instagram.com/sam.damazio/)
 - 📸 Instagram do Ceasinha: [@ceasinha.app](https://www.instagram.com/ceasinha.app/)
+- 📁 Tabnews: [SamDamazio](https://www.tabnews.com.br/samdamazio/conteudos/1)
 
 ---
 

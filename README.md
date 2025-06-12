@@ -53,10 +53,14 @@
 
 ### 🌱 Projetos em destaque
 
-- 📦 **Ceasinha** — app de gestão para feirantes e produtores rurais (aplicativo web e mobile por assinatura)
-- 🎓 **Saber Livre** - plataforma open source para hospedar cursos gratuitos.
+## 🚀 Projetos em destaque
+
+- 📦 [Ceasinha](https://www.ceasinha.app.br) - app de gestão para feirantes e produtores rurais (web e mobile por assinatura)  
+  🔗 [Ceasinha-app](https://play.google.com/store/apps/details?id=com.iaforbusiness.ceasaapp&hl=en-US&ah=yG_UC3WlyTSFLEi2Rwn8Gs8LiSU) - GooglePlay
+- 🎓 [Saber Livre](https://github.com/samdamazio/saber-livre) — plataforma open source para hospedar cursos gratuitos  
 - 🤖 Automatizações com WhatsApp e bots inteligentes para agendamento de plantões médicos (privado)
 - 📊 Scripts de scraping, análise de dados e geração de relatórios automatizados com Python (privado)
+
 
 ---
 

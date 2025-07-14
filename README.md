@@ -23,30 +23,44 @@
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
+![Django REST](https://img.shields.io/badge/-Django%20REST-092E20?style=flat&logo=django)
+![Django Allauth](https://img.shields.io/badge/-Django%20Allauth-092E20?style=flat&logo=django)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
+![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=flat&logo=pytest)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikitlearn)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras)
+
 ![Node.js](https://img.shields.io/badge/-Node.js-303030?style=flat&logo=nodedotjs)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis)
+![Bcrypt](https://img.shields.io/badge/-Bcrypt-4B4B4B?style=flat&logo=security)
+![Faker.js](https://img.shields.io/badge/-Faker.js-4A4A55?style=flat&logo=javascript)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest)
+
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
 ![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)
+
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-222E3A?style=flat&logo=postgresql)
+
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
 ![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-24292F?style=flat&logo=git)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
-![Django REST](https://img.shields.io/badge/-Django%20REST-092E20?style=flat&logo=django)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai)
+![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat&logo=eslint)
 ![Prettier](https://img.shields.io/badge/-Prettier-8e44ad?style=flat&logo=prettier)
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikitlearn)
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql)
-![Django Allauth](https://img.shields.io/badge/-Django%20Allauth-092E20?style=flat&logo=django)
-![Faker.js](https://img.shields.io/badge/-Faker.js-4A4A55?style=flat&logo=javascript)
-![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=flat&logo=pytest)
+![npm](https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm)
+
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai)
+
 
 
 ---

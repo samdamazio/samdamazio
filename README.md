@@ -92,3 +92,26 @@
   Quer contar com o meu trabalho? 
 Entre em contato para mais informações.
 </p>
+
+---
+
+<h3 align="center">🧭 Ponte de comando</h3>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/sonar-dark.svg">
+    <img width="100%" alt="Sonar: repositórios como contatos no radar e painel de navegação com estatísticas" src="assets/sonar-light.svg">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/maquinas-dark.svg">
+    <img width="100%" alt="Casa de máquinas: manômetros com as linguagens mais usadas" src="assets/maquinas-light.svg">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/diario-dark.svg">
+    <img width="100%" alt="Diário de bordo: um navio navegando sobre as contribuições semanais do último ano" src="assets/diario-light.svg">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/sinais-dark.svg">
+    <img width="100%" alt="Bandeiras do Código Internacional de Sinais soletrando SAM DAMAZIO e BZ (Bravo Zulu)" src="assets/sinais-light.svg">
+  </picture>
+</p>
